@@ -73,4 +73,4 @@ Para reportar problemas o sugerencias, abre un **issue** en el repositorio.
 
 ## Notas Adicionales
 
-- Este proyecto ha sido desarrollado con fines educativos. Si bien se puede adaptar a entornos de investigación, **no está destinado para ser utilizado en aplicaciones clínicas**.
+- Este proyecto es con fines educativos y es financiado por la Universidad Tecnológica del Perú
